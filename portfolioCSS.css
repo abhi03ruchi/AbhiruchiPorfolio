@@ -241,9 +241,10 @@ a.active , a:hover{
     transition: .4s; 
   }
   .card .button:hover{
-    background-color: transparent;
-    border: 2px solid #f9004d;
+    background-color: rgba(255,255,255,.2);
+    border: 2px solid black;
     cursor: pointer;
+    color: #000;
   }
   .contact-me{
     width: 100%;
